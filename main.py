@@ -2,7 +2,7 @@ import numpy as np
 import pickle
 import pandas as pd
 import streamlit as st
-# from sklearn.model_selection import train_test_split
+from sklearn.model_selection import train_test_split
 
 # Load the trained model
 model_load = None
